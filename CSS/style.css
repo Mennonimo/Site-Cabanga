@@ -1,6 +1,6 @@
 @font-face {
     font-family: "coockies";
-    src: url("Fonts/HarmoniaSansProCyr-BoldCond.ttf")
+    src: url("../Fonts/HarmoniaSansProCyr-BoldCond.ttf")
     format("truetype");
 }
 @media (min-width: 1279px) {
